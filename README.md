@@ -6,7 +6,7 @@
 - Computer Science student
 
  <div>
-  <a href="https://github.com/Yeda0">
+  <a href="https://github.com/Danatorr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danatorr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danatorr&layout=compact&langs_count=7&theme=omni"/>
 </div>
@@ -30,4 +30,4 @@
   <a href="https://www.linkedin.com/in/daniel-torres-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  </div>
 
-![Snake animation](https://github.com/Yeda0/Yeda0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Danatorr/Danatorr/blob/output/github-contribution-grid-snake.svg)

@@ -2,8 +2,10 @@
 
 - 🌱 Junior back-end developer
 - 🇧🇷 Brazilian
-- Into game design
-- Computer Science student
+- 🇺🇸 Fluent in English
+- 🎮Into game design
+- 💻Computer Science student
+- ☕Coffee Lover
 
  <div>
   <a href="https://github.com/Danatorr">

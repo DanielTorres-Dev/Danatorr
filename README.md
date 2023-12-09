@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel Torres
 
-- 🌱 Junior back-end developer
+- 🌱 Intern @ Oracle Brazil
 - 🇧🇷 Brazilian
 - 🇺🇸 Fluent in English
 - 🎮Into game design
